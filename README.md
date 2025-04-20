@@ -1,2 +1,2 @@
 # ScratchSocket
-ScratchSocket is a WebSocket-based scratch communication extension for TurboWarp inspired by CloudLink.
+Welcome to the ScratchSocket GitHub!
